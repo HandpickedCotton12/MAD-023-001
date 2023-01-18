@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529173064650",
+    "project_id": "revenous-calorietracker",
+    "storage_bucket": "revenous-calorietracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529173064650:android:8c867cf6e3db7f4274bd33",
+        "android_client_info": {
+          "package_name": "revenous.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529173064650-onq4ppnusunfpreosa0plia45clsi9fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "revenous.com",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "529173064650-7jl392babqdkgpdi3em68fbbdqsjq9qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASifVD-xv_ETPlRmB5SFWfqR8ToYkqvLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529173064650-7jl392babqdkgpdi3em68fbbdqsjq9qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
